@@ -4,8 +4,9 @@ Steps for opening project and running the LLM:
 2. Download and install CMake from the following URL: https://cmake.org/download/ (use the Windows msi installer)
 3. Install Visual Studio Code
 4. Install Python and Jupyter extensions in VS Code
-5. Open the file "local-llm.ipynb" in VS Code
-6. Follow the instructions in the notebook and execute the cells of code in order
+5. Clone this repository to your machine
+6. Open the files "local-llm-challenge/local-llm.ipynb" and "rag-example/rag-example.ipynb" in VS Code
+6. Follow the instructions in the notebooks and execute the cells of code in order
 
 ### Working Environment 
 
