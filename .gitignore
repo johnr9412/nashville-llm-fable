@@ -1,2 +1,4 @@
 models
 .DS_Store
+*chromadb
+**/chroma_db/
